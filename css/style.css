@@ -2,7 +2,7 @@ header {
     display: flex;
     justify-content: space-between;
     background-color: #1c0068;
-    border-bottom: 10px solid;
+    border-bottom: 10px solid #a8ce00;
     padding: 10px 20px;
 }
 
@@ -34,8 +34,8 @@ a:before {
 
 #button {
     display: inline-block;
-    background-color: #a8ce00 ;
-    box-shadow: 5px 5px 0px 0px #000;
+    background-color: #a8ce00;
+    box-shadow: 5px 5px 0px 0px white;
     padding: 18px 20px;
     margin-right: 0;
 }
