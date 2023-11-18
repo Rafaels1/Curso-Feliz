@@ -1,3 +1,7 @@
+* {
+    margin: 0; padding: 0; border: none;
+}
+
 body {
     font-family: "fira code", Arial, Helvetica, sans-serif;
 }
