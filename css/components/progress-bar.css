@@ -1,0 +1,11 @@
+.progress-bar {
+    box-sizing: border-box;
+    background-color: black;
+    border: 5px solid white;
+    height: 40px;
+}
+
+.progress-bar::-webkit-progress-bar {
+    background-color: #a8ce00;
+    
+}
