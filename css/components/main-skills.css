@@ -9,6 +9,7 @@
 
 .main-skills .icon {
     margin-right: 25px;
+    width: 90px;
 }
 
 .main-skills .right {
@@ -19,5 +20,6 @@
 
 .main-skills .title {
     font-size: 25px;
+    margin-bottom: 16px;
 }
 
