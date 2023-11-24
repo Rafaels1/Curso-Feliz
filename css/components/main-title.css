@@ -11,6 +11,9 @@
     text-align: center;
     color: white;
     text-shadow: none;
-    
-    
+}
+
+.main-title.-project {
+    text-align: center;
+    color: #fff;
 }
